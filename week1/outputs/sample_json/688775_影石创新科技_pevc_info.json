@@ -1,0 +1,652 @@
+{
+  "company": {
+    "company_name": "影石创新科技股份有限公司",
+    "stock_code": "688775",
+    "exchange": "SSE",
+    "board": "科创板",
+    "listing_date": "2025-06-18",
+    "prospectus_title": "影石创新首次公开发行股票并在科创板上市招股说明书",
+    "prospectus_url": "https://static.cninfo.com.cn/finalpage/2025-06-06/1223788474.PDF",
+    "prospectus_version": "正式稿",
+    "prospectus_date": "2025-06-06"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2021年4月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 1500.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "华金同达的执行事务合伙",
+          "investor_short_name": "华金同达的执行事务合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "合伙人珠海华金领创基金",
+          "investor_short_name": "合伙人珠海华金领创基金",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "为珠海华金资本",
+          "investor_short_name": "为珠海华金资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "其他权益工具投资",
+          "investor_short_name": "其他权益工具投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "19日",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2024年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 1500.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "华金同达的执行事务合伙",
+          "investor_short_name": "华金同达的执行事务合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "合伙人珠海华金领创基金",
+          "investor_short_name": "合伙人珠海华金领创基金",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "为珠海华金资本",
+          "investor_short_name": "为珠海华金资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "其他权益工具投资",
+          "investor_short_name": "其他权益工具投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1500.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "31",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 3,
+      "event_date": "2023年3月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": null,
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "天正投资",
+          "investor_short_name": "天正投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "中证投资",
+          "investor_short_name": "中证投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天正投资",
+          "investor_short_name": "天正投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "24",
+      "confidence": "low"
+    },
+    {
+      "event_order": 4,
+      "event_date": "2019年11月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 16.46,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "知盛投资",
+          "investor_short_name": "知盛投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "威明投资",
+          "investor_short_name": "威明投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "中证投资",
+          "investor_short_name": "中证投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天正投资",
+          "investor_short_name": "天正投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "深圳市宝安区商务局出具《外商投资",
+          "investor_short_name": "深圳市宝安区商务局出具《外商投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "公司完成了外商投资",
+          "investor_short_name": "公司完成了外商投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "知盛投资",
+          "investor_short_name": "知盛投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "21",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 5,
+      "event_date": "2019年11月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 16.46,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "知盛投资",
+          "investor_short_name": "知盛投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "威明投资",
+          "investor_short_name": "威明投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "中证投资",
+          "investor_short_name": "中证投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天正投资",
+          "investor_short_name": "天正投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "深圳市宝安区商务局出具《外商投资",
+          "investor_short_name": "深圳市宝安区商务局出具《外商投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "公司完成了外商投资",
+          "investor_short_name": "公司完成了外商投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "知盛投资",
+          "investor_short_name": "知盛投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 16.46,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "27",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 6,
+      "event_date": "2023年1月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 1462.7126,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "中证投资",
+          "investor_short_name": "中证投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1462.7126,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天正投资",
+          "investor_short_name": "天正投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1462.7126,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1462.7126,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "威明投资",
+          "investor_short_name": "威明投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1462.7126,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "知盛投资",
+          "investor_short_name": "知盛投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1462.7126,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "同意德朴投资",
+          "investor_short_name": "同意德朴投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1462.7126,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "28",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 7,
+      "event_date": "2015年3月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 200.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "有资金回购原投资",
+          "investor_short_name": "有资金回购原投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 200.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "得原投资",
+          "investor_short_name": "得原投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 200.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "6 日",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 8,
+      "event_date": "2018年9月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 200.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "有资金回购原投资",
+          "investor_short_name": "有资金回购原投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 200.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "得原投资",
+          "investor_short_name": "得原投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 200.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "11日",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 9,
+      "event_date": "2018年9月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 200.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "有资金回购原投资",
+          "investor_short_name": "有资金回购原投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 200.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "得原投资",
+          "investor_short_name": "得原投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 200.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "11",
+      "confidence": "medium"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked",
+    "notes": "严格抽取：过滤非融资事件、子公司事件、重复事件"
+  }
+}

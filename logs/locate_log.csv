@@ -1,0 +1,9 @@
+﻿company_name,stock_code,matched_keyword,source_section,start_position,end_position,candidate_text_path,status,error_message
+芜湖三联锻造股份有限公司,001282,历史沿革/股本形成/增资/股权转让/股东情况,22个相关章节,0,281,outputs/week1_candidate_texts/001282_芜湖三联锻造_完整解析_候选文本.md,success,
+上海友升铝业股份有限公司,603418,历史沿革/股本演变/增资/股权转让/股东情况/股权结构,49个相关章节,0,478,outputs/week1_candidate_texts/603418_上海友升铝业_完整解析_候选文本.md,success,
+黄山谷捷股份有限公司,301581,历史沿革/股本形成/增资/股权转让/股东情况/投资者,27个相关章节,0,253,outputs/week1_candidate_texts/301581_黄山谷捷_完整解析_候选文本.md,success,
+云汉芯城（上海）互联网科技股份有限公司,301563,历史沿革/股本演变/增资/股权转让/股东情况/股权结构/投资者,36个相关章节,0,421,outputs/week1_candidate_texts/301563_云汉芯城（上海）互联网科技_完整解析_候选文本.md,success,
+苏州赛分科技股份有限公司,688758,历史沿革/股本形成/增资/股权转让/股东情况/股权结构/投资者/估值,50个相关章节,0,400,outputs/week1_candidate_texts/688758_苏州赛分科技_完整解析_候选文本.md,success,
+影石创新科技股份有限公司,688775,历史沿革/股本演变/增资/股权转让/股东情况/股权结构/投资者/创投/PE/VC,37个相关章节,0,484,outputs/week1_candidate_texts/688775_影石创新科技_完整解析_候选文本.md,success,
+常州三协电机股份有限公司,920100,历史沿革/股本形成/增资/股权转让/股东情况/创业投资/私募股权,19个相关章节,0,262,outputs/week1_candidate_texts/920100_常州三协电机_完整解析_候选文本.md,success,
+中科星图测控技术股份有限公司,920116,历史沿革/股本形成/增资/股权转让/股东情况/股权结构/创业投资,29个相关章节,0,265,outputs/week1_candidate_texts/920116_中科星图测控技术_完整解析_候选文本.md,success,

@@ -1,0 +1,480 @@
+{
+  "company": {
+    "company_name": "云汉芯城（上海）互联网科技股份有限公司",
+    "stock_code": "301563",
+    "exchange": "SZSE",
+    "board": "创业板",
+    "listing_date": "2025-10-08",
+    "prospectus_title": "云汉芯城首次公开发行股票并在创业板上市招股说明书",
+    "prospectus_url": "https://static.cninfo.com.cn/finalpage/2025-09-25/1224679402.PDF",
+    "prospectus_version": "正式稿",
+    "prospectus_date": "2025-09-25"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2020年9月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 51.6,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 51.6,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 51.6,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 51.6,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "23",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2018年6月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 7412.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "和厦门蜜呆资产管理合伙企业（有限合伙",
+          "investor_short_name": "和厦门蜜呆资产管理合伙企业（有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "）为其普通合伙",
+          "investor_short_name": "）为其普通合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "其执行事务合伙",
+          "investor_short_name": "其执行事务合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "股份公司增加注册资本",
+          "investor_short_name": "股份公司增加注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元认缴新增注册资本",
+          "investor_short_name": "万元认缴新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元的等值美元认缴新增注册资本",
+          "investor_short_name": "万元的等值美元认缴新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元认缴新增注册资本",
+          "investor_short_name": "万元认缴新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元认缴新增注册资本",
+          "investor_short_name": "元认缴新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元认缴新增注册资本",
+          "investor_short_name": "万元认缴新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元认缴新增注册资本",
+          "investor_short_name": "万元认缴新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7412.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "12",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 3,
+      "event_date": "2019年8月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 40.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 40.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "秦国君与为赛咨询其他合伙",
+          "investor_short_name": "秦国君与为赛咨询其他合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 40.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "13",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 4,
+      "event_date": "2019年8月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 40.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 40.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "秦国君与为赛咨询其他合伙",
+          "investor_short_name": "秦国君与为赛咨询其他合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 40.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 40.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "12",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 5,
+      "event_date": "2018年6月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 120.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "的价格认缴发行人新增注册资本",
+          "investor_short_name": "的价格认缴发行人新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 120.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "股份公司增加注册资本",
+          "investor_short_name": "股份公司增加注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 120.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "至 7",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 6,
+      "event_date": "2019年1月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 120.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "的价格认缴发行人新增注册资本",
+          "investor_short_name": "的价格认缴发行人新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 120.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "股份公司增加注册资本",
+          "investor_short_name": "股份公司增加注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 120.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "公司召",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 7,
+      "event_date": "2022年7月",
+      "date_type": "未说明",
+      "event_type": "股权转让",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": null,
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "执行董事兼总经理的企业，2022 年 7 月已将股权转让给",
+      "confidence": "low"
+    },
+    {
+      "event_order": 8,
+      "event_date": "2023年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": null,
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "芜湖兴安创业投资基金",
+          "investor_short_name": "芜湖兴安创业投资基金",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "东方富海（芜湖）股权投资",
+          "investor_short_name": "东方富海（芜湖）股权投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "金管理企业（有限合伙",
+          "investor_short_name": "金管理企业（有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "深圳市东方富海投资",
+          "investor_short_name": "深圳市东方富海投资",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "31",
+      "confidence": "low"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked",
+    "notes": "严格抽取：过滤非融资事件、子公司事件、重复事件"
+  }
+}

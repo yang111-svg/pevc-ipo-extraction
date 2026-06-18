@@ -1,0 +1,17 @@
+﻿company_name,stock_code,candidate_text_path,model_name,prompt_version,json_path,status,error_message
+芜湖三联锻造股份有限公司,001282,outputs/week1_candidate_texts/001282_芜湖三联锻造_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/001282_芜湖三联锻造_pevc_info.json,success,
+上海友升铝业股份有限公司,603418,outputs/week1_candidate_texts/603418_上海友升铝业_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/603418_上海友升铝业_pevc_info.json,success,
+黄山谷捷股份有限公司,301581,outputs/week1_candidate_texts/301581_黄山谷捷_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/301581_黄山谷捷_pevc_info.json,success,
+云汉芯城（上海）互联网科技股份有限公司,301563,outputs/week1_candidate_texts/301563_云汉芯城（上海）互联网科技_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/301563_云汉芯城（上海）互联网科技_pevc_info.json,partial,候选文本中未找到明确融资事件
+苏州赛分科技股份有限公司,688758,outputs/week1_candidate_texts/688758_苏州赛分科技_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/688758_苏州赛分科技_pevc_info.json,success,
+影石创新科技股份有限公司,688775,outputs/week1_candidate_texts/688775_影石创新科技_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/688775_影石创新科技_pevc_info.json,success,
+常州三协电机股份有限公司,920100,outputs/week1_candidate_texts/920100_常州三协电机_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/920100_常州三协电机_pevc_info.json,partial,候选文本中未找到明确融资事件
+中科星图测控技术股份有限公司,920116,outputs/week1_candidate_texts/920116_中科星图测控技术_完整解析_候选文本.md,rule-based,v1,outputs/week1_sample_json/920116_中科星图测控技术_pevc_info.json,partial,候选文本中未找到明确融资事件
+芜湖三联锻造股份有限公司,001282,outputs/week1_candidate_texts/001282_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\001282_芜湖三联锻造_pevc_info.json,success,
+上海友升铝业股份有限公司,603418,outputs/week1_candidate_texts/603418_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\603418_上海友升铝业_pevc_info.json,success,
+黄山谷捷股份有限公司,301581,outputs/week1_candidate_texts/301581_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\301581_黄山谷捷_pevc_info.json,success,
+云汉芯城（上海）互联网科技股份有限公司,301563,outputs/week1_candidate_texts/301563_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\301563_云汉芯城（上海）互联网科技_pevc_info.json,success,
+苏州赛分科技股份有限公司,688758,outputs/week1_candidate_texts/688758_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\688758_苏州赛分科技_pevc_info.json,success,
+影石创新科技股份有限公司,688775,outputs/week1_candidate_texts/688775_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\688775_影石创新科技_pevc_info.json,success,
+常州三协电机股份有限公司,920100,outputs/week1_candidate_texts/920100_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\920100_常州三协电机_pevc_info.json,success,
+中科星图测控技术股份有限公司,920116,outputs/week1_candidate_texts/920116_候选文本.md,rule-based,v2,C:\Users\HP\Desktop\prospectus-pevc-project\outputs\week1_sample_json\920116_中科星图测控技术_pevc_info.json,success,

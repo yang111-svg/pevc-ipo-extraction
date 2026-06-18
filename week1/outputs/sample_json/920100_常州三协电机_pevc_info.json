@@ -1,0 +1,235 @@
+﻿{
+  "company": {
+    "company_name": "常州三协电机股份有限公司",
+    "stock_code": "920100",
+    "exchange": "BSE",
+    "board": "北交所",
+    "listing_date": "2025-07-22",
+    "prospectus_title": "常州三协电机股份有限公司招股说明书（申报稿）",
+    "prospectus_url": "https://www.bse.cn/disclosure/2025/2025-07-11/1752226211_504693.pdf",
+    "prospectus_version": "申报稿",
+    "prospectus_date": "2025-07-11"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2022年8月",
+      "date_type": "出资缴款日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 2374.4,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "深圳市稳正景明私募股权投资基金合伙企业（有限合伙）",
+          "investor_short_name": "稳正景明",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 9.16,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "常州长泽创业投资合伙企业（有限合伙）",
+          "investor_short_name": "长泽创投",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 4.61,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "2022年8月9日，公司已收到稳正景明、长泽创投缴纳的出资款2,374.40万元",
+      "confidence": "high"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2023年9月",
+      "date_type": "出资缴款日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 1723.09,
+      "currency": "CNY",
+      "share_price": 5.41,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "盛祎",
+          "investor_short_name": "盛祎",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "盛松",
+          "investor_short_name": "盛松",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "薛小丽",
+          "investor_short_name": "薛小丽",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "倪进宽",
+          "investor_short_name": "倪进宽",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "余方成",
+          "investor_short_name": "余方成",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "吴春扣",
+          "investor_short_name": "吴春扣",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "陆宇君",
+          "investor_short_name": "陆宇君",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "戈翔俊",
+          "investor_short_name": "戈翔俊",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "陈都亮",
+          "investor_short_name": "陈都亮",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "圣利",
+          "investor_short_name": "圣利",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "董雪强",
+          "investor_short_name": "董雪强",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "文涛",
+          "investor_short_name": "文涛",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "付荷庆",
+          "investor_short_name": "付荷庆",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "陈韵",
+          "investor_short_name": "陈韵",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "盛月瑶",
+          "investor_short_name": "盛月瑶",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "2023年9月6日，公司已收到盛祎、盛松、薛小丽、倪进宽、余方成、吴春扣、陆宇君、戈翔俊、陈都亮、圣利、董雪强、文涛、付荷庆、陈韵和盛月瑶15名认购人缴纳的出资款1,723.09万元",
+      "confidence": "high"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "revise",
+    "notes": "人工修正：基于候选文本重新提取，识别2次定向发行融资事件"
+  }
+}

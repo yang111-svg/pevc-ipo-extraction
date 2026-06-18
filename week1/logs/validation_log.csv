@@ -1,0 +1,9 @@
+﻿company_name,stock_code,json_path,validation_status,missing_fields,type_errors,logic_errors,review_required
+芜湖三联锻造股份有限公司,001282,outputs/week1_sample_json/001282_pevc_info.json,valid,,,,yes
+上海友升铝业股份有限公司,603418,outputs/week1_sample_json/603418_pevc_info.json,valid,,,,yes
+黄山谷捷股份有限公司,301581,outputs/week1_sample_json/301581_pevc_info.json,valid,,,,yes
+云汉芯城（上海）互联网科技股份有限公司,301563,outputs/week1_sample_json/301563_pevc_info.json,valid,,,,yes
+苏州赛分科技股份有限公司,688758,outputs/week1_sample_json/688758_pevc_info.json,valid,,,,yes
+影石创新科技股份有限公司,688775,outputs/week1_sample_json/688775_pevc_info.json,valid,,,,yes
+常州三协电机股份有限公司,920100,outputs/week1_sample_json/920100_pevc_info.json,valid,,,,yes
+中科星图测控技术股份有限公司,920116,outputs/week1_sample_json/920116_pevc_info.json,valid,,,,yes

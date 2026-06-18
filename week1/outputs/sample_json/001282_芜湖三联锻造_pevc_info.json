@@ -1,0 +1,1287 @@
+{
+  "company": {
+    "company_name": "芜湖三联锻造股份有限公司",
+    "stock_code": "001282",
+    "exchange": "SZSE",
+    "board": "主板",
+    "listing_date": "2023-05-24",
+    "prospectus_title": "首次公开发行股票并在主板上市招股说明书",
+    "prospectus_url": "https://static.cninfo.com.cn/finalpage/2023-05-17/1216830304.PDF",
+    "prospectus_version": "正式稿",
+    "prospectus_date": "2023-05-17"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2019年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 8150.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "议案决定拟将公司的注册资本",
+          "investor_short_name": "议案决定拟将公司的注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "新增注册资本由新股东三联合伙",
+          "investor_short_name": "新增注册资本由新股东三联合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元计入注册资本",
+          "investor_short_name": "万元计入注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元计入资本",
+          "investor_short_name": "万元计入资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "本次增资时三联合伙合伙人的岗位及合伙",
+          "investor_short_name": "本次增资时三联合伙合伙人的岗位及合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "普通合伙",
+          "investor_short_name": "普通合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 8150.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "4 日",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2019年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 1566.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "有限合伙",
+          "investor_short_name": "有限合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "三联合伙",
+          "investor_short_name": "三联合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "公司已收到股东三联合伙",
+          "investor_short_name": "公司已收到股东三联合伙",
+          "investor_type": "合伙企业",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元计入注册资本",
+          "investor_short_name": "万元计入注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元计入资本",
+          "investor_short_name": "万元计入资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "公司的注册资本",
+          "investor_short_name": "公司的注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1566.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "17",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 3,
+      "event_date": "2022年",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 7.15,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "年等待期确认为管理费用和资本",
+          "investor_short_name": "年等待期确认为管理费用和资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 7.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "度 管",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 4,
+      "event_date": "2005年5月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 308.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "温州三联注册资本",
+          "investor_short_name": "温州三联注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "新增注册资本",
+          "investor_short_name": "新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/注册资本",
+          "investor_short_name": "元/注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "第三次",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 5,
+      "event_date": "2005年5月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 308.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "温州三联注册资本",
+          "investor_short_name": "温州三联注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "新增注册资本",
+          "investor_short_name": "新增注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/注册资本",
+          "investor_short_name": "元/注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 308.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "温州三",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 6,
+      "event_date": "2014年2月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 276.15,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/注册资本",
+          "investor_short_name": "元/注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "第三次",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 7,
+      "event_date": "2014年2月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 276.15,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/注册资本",
+          "investor_short_name": "元/注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "股东孙",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 8,
+      "event_date": "2017年9月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 276.15,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "设立子",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 9,
+      "event_date": "2017年9月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 276.15,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 276.15,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "温州三",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 10,
+      "event_date": "2017年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 49.75,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "万元计入注册资本",
+          "investor_short_name": "万元计入注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "24",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 11,
+      "event_date": "2017年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 49.75,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "万元计入注册资本",
+          "investor_short_name": "万元计入注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "26",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 12,
+      "event_date": "2021年3月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 49.75,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "万元计入注册资本",
+          "investor_short_name": "万元计入注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元注册资本",
+          "investor_short_name": "万元注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/每注册资本",
+          "investor_short_name": "元/每注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元注册资本",
+          "investor_short_name": "万元注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/每注册资本",
+          "investor_short_name": "元/每注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 49.75,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "黄山联",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 13,
+      "event_date": "2020年9月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 1.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "元/每注册资本",
+          "investor_short_name": "元/每注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "万元注册资本",
+          "investor_short_name": "万元注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/每注册资本",
+          "investor_short_name": "元/每注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 1.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "黄山联",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 14,
+      "event_date": "2019年12月",
+      "date_type": "未说明",
+      "event_type": "其他",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 100.0,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "万元注册资本",
+          "investor_short_name": "万元注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 100.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "元/每注册资本",
+          "investor_short_name": "元/每注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 100.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "注册资本",
+          "investor_short_name": "注册资本",
+          "investor_type": "其他",
+          "is_pevc": "yes",
+          "investment_amount": 100.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第五节 发行人基本情况 - 三、发行人股本演变情况",
+      "source_page": "",
+      "evidence_text": "18",
+      "confidence": "medium"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked",
+    "notes": "严格抽取：过滤非融资事件、子公司事件、重复事件"
+  }
+}
