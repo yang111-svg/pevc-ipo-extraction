@@ -1,4 +1,4 @@
-﻿source,row_index,has_auto,has_gold,investor_name_auto,investor_name_gold,investor_name_match,subscription_amount_auto,subscription_amount_gold,subscription_amount_match,subscription_shares_auto,subscription_shares_gold,subscription_shares_match,price_per_share_auto,price_per_share_gold,price_per_share_match,date_auto,date_gold,date_match,total_capital_after_auto,total_capital_after_gold,total_capital_after_match
+source,row_index,has_auto,has_gold,investor_name_auto,investor_name_gold,investor_name_match,subscription_amount_auto,subscription_amount_gold,subscription_amount_match,subscription_shares_auto,subscription_shares_gold,subscription_shares_match,price_per_share_auto,price_per_share_gold,price_per_share_match,date_auto,date_gold,date_match,total_capital_after_auto,total_capital_after_gold,total_capital_after_match
 001282_auto,1,True,True,,,Y,,,Y,,,Y,,,Y,,,Y,,,Y
 001282_auto,2,True,True,,,Y,,,Y,,,Y,,,Y,,,Y,,,Y
 001282_auto,3,True,True,,,Y,,,Y,,,Y,,,Y,,,Y,,,Y
