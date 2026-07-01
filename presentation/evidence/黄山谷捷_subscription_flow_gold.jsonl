@@ -1,0 +1,77 @@
+{
+  "record_type": "subscription_flow",
+  "company_name": "黄山谷捷股份有限公司",
+  "stock_code": "301581",
+  "subscription_date": "2021-04-03",
+  "investor_name": "昆山谷捷（吸收合并）",
+  "investor_type": "法人股东",
+  "subscription_qty_wan": 200.0,
+  "subscription_amount_wan": 0.0,
+  "subscription_price": 0.0,
+  "currency": "人民币",
+  "event_type": "增资（吸收合并）",
+  "evidence_text": "2021年4月，谷捷有限吸收合并昆山谷捷，注册资本由1,000万元增至1,200万元。",
+  "extraction_notes": "吸收合并昆山谷捷，增资200万元注册资本。PDF第40-41页。",
+  "pdf_page": 40,
+  "source": "week3_manual_gold"
+}
+{
+  "record_type": "subscription_flow",
+  "company_name": "黄山谷捷股份有限公司",
+  "stock_code": "301581",
+  "subscription_date": "2021-09-18",
+  "investor_name": "赛格高技术",
+  "investor_type": "PE/VC",
+  "subscription_qty_wan": 462.8571,
+  "subscription_amount_wan": 10377.26,
+  "subscription_price": 22.42,
+  "currency": "人民币",
+  "event_type": "增资",
+  "evidence_text": "2021年9月18日，赛格高技术与谷捷有限签署增资协议，认缴462.8571万元新增注册资本，增资价格为22.42元/注册资本。",
+  "extraction_notes": "赛格高技术增资，价格22.42元/注册资本，金额=462.8571×22.42≈10,377.26万元。PDF第42-43页。 [calculated: subscription_amount_wan]",
+  "pdf_page": 42,
+  "source": "week3_manual_gold",
+  "calculated_fields": [
+    "subscription_amount_wan"
+  ]
+}
+{
+  "record_type": "subscription_flow",
+  "company_name": "黄山谷捷股份有限公司",
+  "stock_code": "301581",
+  "subscription_date": "2021-09-18",
+  "investor_name": "上汽科技",
+  "investor_type": "战略投资者",
+  "subscription_qty_wan": 51.4286,
+  "subscription_amount_wan": 1153.03,
+  "subscription_price": 22.42,
+  "currency": "人民币",
+  "event_type": "增资",
+  "evidence_text": "2021年9月18日，上汽科技与谷捷有限签署增资协议，认缴51.4286万元新增注册资本，增资价格为22.42元/注册资本。",
+  "extraction_notes": "上汽科技增资，价格22.42元/注册资本，金额=51.4286×22.42≈1,153.03万元。PDF第43页。 [calculated: subscription_amount_wan]",
+  "pdf_page": 43,
+  "source": "week3_manual_gold",
+  "calculated_fields": [
+    "subscription_amount_wan"
+  ]
+}
+{
+  "record_type": "subscription_flow",
+  "company_name": "黄山谷捷股份有限公司",
+  "stock_code": "301581",
+  "subscription_date": "2022-05-24",
+  "investor_name": "黄山佳捷",
+  "investor_type": "员工持股平台",
+  "subscription_qty_wan": 90.2256,
+  "subscription_amount_wan": 2124.81,
+  "subscription_price": 23.55,
+  "currency": "人民币",
+  "event_type": "增资",
+  "evidence_text": "2022年5月24日，谷捷有限与黄山佳捷签署增资扩股协议，新增注册资本90.2256万元由黄山佳捷全额认缴，增资价格为23.55元/注册资本。",
+  "extraction_notes": "员工持股平台黄山佳捷增资，金额=90.2256×23.55≈2,124.81万元。PDF第44页。 [calculated: subscription_amount_wan]",
+  "pdf_page": 44,
+  "source": "week3_manual_gold",
+  "calculated_fields": [
+    "subscription_amount_wan"
+  ]
+}
