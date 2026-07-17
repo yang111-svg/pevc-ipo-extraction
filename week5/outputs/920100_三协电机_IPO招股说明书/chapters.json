@@ -1,0 +1,91 @@
+{
+  "company": "三协电机_IPO招股说明书",
+  "stock_code": "920100",
+  "chapter_count": 12,
+  "chapters": [
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 1,
+      "end_page": 18,
+      "text_length": 16809
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 26,
+      "end_page": 43,
+      "text_length": 16538
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 45,
+      "end_page": 62,
+      "text_length": 19144
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 63,
+      "end_page": 80,
+      "text_length": 18699
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 79,
+      "end_page": 96,
+      "text_length": 16828
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 135,
+      "end_page": 152,
+      "text_length": 17441
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 152,
+      "end_page": 169,
+      "text_length": 18573
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 203,
+      "end_page": 220,
+      "text_length": 15888
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "注册资本变更",
+      "start_page": 250,
+      "end_page": 267,
+      "text_length": 13563
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 271,
+      "end_page": 288,
+      "text_length": 18752
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 325,
+      "end_page": 342,
+      "text_length": 16100
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 362,
+      "end_page": 379,
+      "text_length": 6809
+    }
+  ]
+}

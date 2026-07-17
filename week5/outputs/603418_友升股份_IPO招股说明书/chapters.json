@@ -1,0 +1,105 @@
+{
+  "company": "友升股份_IPO招股说明书",
+  "stock_code": "603418",
+  "chapter_count": 14,
+  "chapters": [
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 1,
+      "end_page": 18,
+      "text_length": 22595
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 17,
+      "end_page": 34,
+      "text_length": 16012
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 36,
+      "end_page": 53,
+      "text_length": 14157
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 56,
+      "end_page": 73,
+      "text_length": 15686
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "前十名股东",
+      "start_page": 72,
+      "end_page": 89,
+      "text_length": 15735
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "持股情况",
+      "start_page": 88,
+      "end_page": 105,
+      "text_length": 12345
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 145,
+      "end_page": 162,
+      "text_length": 18463
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 161,
+      "end_page": 178,
+      "text_length": 16769
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 224,
+      "end_page": 241,
+      "text_length": 16499
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 287,
+      "end_page": 304,
+      "text_length": 19133
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 303,
+      "end_page": 320,
+      "text_length": 17168
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "发行前股东",
+      "start_page": 330,
+      "end_page": 347,
+      "text_length": 13810
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 346,
+      "end_page": 363,
+      "text_length": 13284
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 363,
+      "end_page": 380,
+      "text_length": 12780
+    }
+  ]
+}

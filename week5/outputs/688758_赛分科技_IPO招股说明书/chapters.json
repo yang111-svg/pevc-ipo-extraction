@@ -1,0 +1,112 @@
+{
+  "company": "赛分科技_IPO招股说明书",
+  "stock_code": "688758",
+  "chapter_count": 15,
+  "chapters": [
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 2,
+      "end_page": 19,
+      "text_length": 21409
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 24,
+      "end_page": 41,
+      "text_length": 16478
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "整体变更",
+      "start_page": 41,
+      "end_page": 58,
+      "text_length": 15803
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "股权结构如下",
+      "start_page": 57,
+      "end_page": 74,
+      "text_length": 15379
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "持股平台",
+      "start_page": 78,
+      "end_page": 95,
+      "text_length": 17162
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "持股情况",
+      "start_page": 94,
+      "end_page": 111,
+      "text_length": 14831
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 199,
+      "end_page": 216,
+      "text_length": 18888
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "员工持股",
+      "start_page": 283,
+      "end_page": 300,
+      "text_length": 18393
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 299,
+      "end_page": 316,
+      "text_length": 18001
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 358,
+      "end_page": 375,
+      "text_length": 15549
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "股份公司设立",
+      "start_page": 374,
+      "end_page": 391,
+      "text_length": 16958
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 390,
+      "end_page": 407,
+      "text_length": 17072
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 412,
+      "end_page": 429,
+      "text_length": 14986
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 429,
+      "end_page": 446,
+      "text_length": 14508
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 445,
+      "end_page": 462,
+      "text_length": 4565
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "company": "影石创新_IPO招股说明书",
+  "stock_code": "688775",
+  "chapter_count": 15,
+  "chapters": [
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 5,
+      "end_page": 22,
+      "text_length": 23696
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 24,
+      "end_page": 41,
+      "text_length": 17034
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 57,
+      "end_page": 74,
+      "text_length": 14085
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 74,
+      "end_page": 91,
+      "text_length": 15953
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 96,
+      "end_page": 113,
+      "text_length": 15318
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 113,
+      "end_page": 130,
+      "text_length": 14366
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "员工持股",
+      "start_page": 129,
+      "end_page": 146,
+      "text_length": 14679
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "员工持股",
+      "start_page": 251,
+      "end_page": 268,
+      "text_length": 16125
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 292,
+      "end_page": 309,
+      "text_length": 18040
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 331,
+      "end_page": 348,
+      "text_length": 18048
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 379,
+      "end_page": 396,
+      "text_length": 14428
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 395,
+      "end_page": 412,
+      "text_length": 15102
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 429,
+      "end_page": 446,
+      "text_length": 6372
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 506,
+      "end_page": 523,
+      "text_length": 13975
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 525,
+      "end_page": 542,
+      "text_length": 13353
+    }
+  ]
+}

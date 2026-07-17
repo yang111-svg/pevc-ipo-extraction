@@ -1,0 +1,126 @@
+{
+  "company": "云汉芯城_IPO招股说明书",
+  "stock_code": "301563",
+  "chapter_count": 17,
+  "chapters": [
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "整体变更",
+      "start_page": 2,
+      "end_page": 19,
+      "text_length": 22313
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 18,
+      "end_page": 35,
+      "text_length": 17328
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 49,
+      "end_page": 66,
+      "text_length": 13331
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人的设立情况",
+      "start_page": 68,
+      "end_page": 85,
+      "text_length": 15197
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 84,
+      "end_page": 101,
+      "text_length": 17826
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "员工持股",
+      "start_page": 107,
+      "end_page": 124,
+      "text_length": 15729
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 123,
+      "end_page": 140,
+      "text_length": 13984
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 173,
+      "end_page": 190,
+      "text_length": 17185
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 194,
+      "end_page": 211,
+      "text_length": 27454
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 218,
+      "end_page": 235,
+      "text_length": 16832
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 295,
+      "end_page": 312,
+      "text_length": 18979
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 311,
+      "end_page": 328,
+      "text_length": 16016
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 360,
+      "end_page": 377,
+      "text_length": 14076
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 377,
+      "end_page": 394,
+      "text_length": 16158
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 405,
+      "end_page": 422,
+      "text_length": 8010
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 422,
+      "end_page": 439,
+      "text_length": 14301
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 438,
+      "end_page": 443,
+      "text_length": 4282
+    }
+  ]
+}

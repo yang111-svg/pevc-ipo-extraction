@@ -1,0 +1,77 @@
+{
+  "company": "黄山谷捷_IPO招股说明书",
+  "stock_code": "301581",
+  "chapter_count": 10,
+  "chapters": [
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 4,
+      "end_page": 21,
+      "text_length": 21955
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 36,
+      "end_page": 53,
+      "text_length": 14306
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "持股情况",
+      "start_page": 52,
+      "end_page": 69,
+      "text_length": 19779
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 68,
+      "end_page": 85,
+      "text_length": 14424
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 132,
+      "end_page": 149,
+      "text_length": 17731
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 156,
+      "end_page": 173,
+      "text_length": 19214
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 266,
+      "end_page": 283,
+      "text_length": 15028
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 291,
+      "end_page": 308,
+      "text_length": 7453
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 307,
+      "end_page": 324,
+      "text_length": 14951
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 323,
+      "end_page": 340,
+      "text_length": 14861
+    }
+  ]
+}

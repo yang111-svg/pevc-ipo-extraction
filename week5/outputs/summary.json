@@ -1,0 +1,169 @@
+[
+  {
+    "company": "三联锻造_IPO招股说明书",
+    "stock_code": "001282",
+    "pages": 476,
+    "chapters": 11,
+    "candidates": 115,
+    "by_type": {
+      "设立出资": 41,
+      "未分类": 40,
+      "整体变更": 5,
+      "股权转让": 16,
+      "增资": 13
+    },
+    "by_quality": {
+      "high": 49,
+      "low": 49,
+      "medium": 17
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "云汉芯城_IPO招股说明书",
+    "stock_code": "301563",
+    "pages": 443,
+    "chapters": 17,
+    "candidates": 154,
+    "by_type": {
+      "设立出资": 47,
+      "未分类": 57,
+      "整体变更": 9,
+      "股权转让": 23,
+      "增资": 17,
+      "减资": 1
+    },
+    "by_quality": {
+      "low": 86,
+      "high": 50,
+      "medium": 18
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "黄山谷捷_IPO招股说明书",
+    "stock_code": "301581",
+    "pages": 343,
+    "chapters": 10,
+    "candidates": 112,
+    "by_type": {
+      "设立出资": 31,
+      "未分类": 22,
+      "整体变更": 2,
+      "增资": 31,
+      "股权转让": 15,
+      "吸收合并": 10,
+      "减资": 1
+    },
+    "by_quality": {
+      "high": 31,
+      "low": 73,
+      "medium": 8
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "友升股份_IPO招股说明书",
+    "stock_code": "603418",
+    "pages": 398,
+    "chapters": 14,
+    "candidates": 172,
+    "by_type": {
+      "设立出资": 29,
+      "未分类": 104,
+      "整体变更": 3,
+      "增资": 20,
+      "股权转让": 13,
+      "吸收合并": 1,
+      "减资": 2
+    },
+    "by_quality": {
+      "low": 51,
+      "high": 74,
+      "medium": 47
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "赛分科技_IPO招股说明书",
+    "stock_code": "688758",
+    "pages": 468,
+    "chapters": 15,
+    "candidates": 120,
+    "by_type": {
+      "设立出资": 28,
+      "未分类": 43,
+      "整体变更": 6,
+      "增资": 20,
+      "股权转让": 23
+    },
+    "by_quality": {
+      "low": 58,
+      "high": 48,
+      "medium": 14
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "影石创新_IPO招股说明书",
+    "stock_code": "688775",
+    "pages": 555,
+    "chapters": 15,
+    "candidates": 103,
+    "by_type": {
+      "设立出资": 44,
+      "未分类": 27,
+      "整体变更": 1,
+      "股权转让": 25,
+      "增资": 5,
+      "减资": 1
+    },
+    "by_quality": {
+      "high": 37,
+      "medium": 8,
+      "low": 58
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "三协电机_IPO招股说明书",
+    "stock_code": "920100",
+    "pages": 382,
+    "chapters": 12,
+    "candidates": 92,
+    "by_type": {
+      "未分类": 42,
+      "股权转让": 22,
+      "设立出资": 19,
+      "增资": 6,
+      "减资": 2,
+      "整体变更": 1
+    },
+    "by_quality": {
+      "high": 45,
+      "low": 42,
+      "medium": 5
+    },
+    "gold_records": 147
+  },
+  {
+    "company": "星图测控_IPO招股说明书",
+    "stock_code": "920116",
+    "pages": 365,
+    "chapters": 10,
+    "candidates": 72,
+    "by_type": {
+      "未分类": 40,
+      "股权转让": 15,
+      "设立出资": 4,
+      "增资": 10,
+      "整体变更": 3
+    },
+    "by_quality": {
+      "medium": 7,
+      "high": 38,
+      "low": 27
+    },
+    "gold_records": 147
+  }
+]

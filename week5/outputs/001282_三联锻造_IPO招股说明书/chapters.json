@@ -1,0 +1,84 @@
+{
+  "company": "三联锻造_IPO招股说明书",
+  "stock_code": "001282",
+  "chapter_count": 11,
+  "chapters": [
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 2,
+      "end_page": 19,
+      "text_length": 23184
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 24,
+      "end_page": 41,
+      "text_length": 14266
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "发行人股权结构",
+      "start_page": 41,
+      "end_page": 58,
+      "text_length": 15705
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 57,
+      "end_page": 74,
+      "text_length": 13950
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 175,
+      "end_page": 192,
+      "text_length": 21180
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 204,
+      "end_page": 221,
+      "text_length": 17932
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "整体变更",
+      "start_page": 356,
+      "end_page": 373,
+      "text_length": 14981
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 388,
+      "end_page": 405,
+      "text_length": 7518
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 405,
+      "end_page": 422,
+      "text_length": 14669
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 421,
+      "end_page": 438,
+      "text_length": 14994
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "股本演变",
+      "start_page": 447,
+      "end_page": 464,
+      "text_length": 17246
+    }
+  ]
+}

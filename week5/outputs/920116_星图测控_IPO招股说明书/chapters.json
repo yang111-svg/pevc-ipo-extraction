@@ -1,0 +1,77 @@
+{
+  "company": "星图测控_IPO招股说明书",
+  "stock_code": "920116",
+  "chapter_count": 10,
+  "chapters": [
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 5,
+      "end_page": 22,
+      "text_length": 18776
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 25,
+      "end_page": 42,
+      "text_length": 16114
+    },
+    {
+      "chapter_group": "股权结构",
+      "chapter_title": "发行前股权结构",
+      "start_page": 45,
+      "end_page": 62,
+      "text_length": 16535
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "实际控制人",
+      "start_page": 107,
+      "end_page": 124,
+      "text_length": 17105
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "发行人基本情况",
+      "start_page": 137,
+      "end_page": 154,
+      "text_length": 17138
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "股权激励",
+      "start_page": 182,
+      "end_page": 199,
+      "text_length": 16187
+    },
+    {
+      "chapter_group": "核心章节",
+      "chapter_title": "整体变更",
+      "start_page": 215,
+      "end_page": 232,
+      "text_length": 16419
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 302,
+      "end_page": 319,
+      "text_length": 7301
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 319,
+      "end_page": 336,
+      "text_length": 15601
+    },
+    {
+      "chapter_group": "关联信息",
+      "chapter_title": "控股股东",
+      "start_page": 337,
+      "end_page": 354,
+      "text_length": 15243
+    }
+  ]
+}
