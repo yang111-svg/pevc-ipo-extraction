@@ -1,0 +1,21 @@
+# Week6 PEVC IPO Prospectus Extraction Pipeline
+# Python 3.12+
+
+# PDF parsing
+pymupdf>=1.24.0
+
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Schema validation
+pydantic>=2.0.0
+
+# Database (optional)
+psycopg2-binary>=2.9.0
+
+# LLM integration (optional - for vlm-http-client backend)
+# openai>=1.0.0
+
+# MinerU (optional - for Markdown parsing, requires 16GB+ RAM)
+# mineru[all]>=3.0.0
