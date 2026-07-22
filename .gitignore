@@ -2,3 +2,8 @@
 *.pyc
 .DS_Store
 Thumbs.db
+
+# API keys
+*.env
+.env
+api_key.txt
