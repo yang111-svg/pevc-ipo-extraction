@@ -7,32 +7,32 @@
       "gold_kept": 2,
       "post_duplicates": 0,
       "post_flagged": 0,
-      "post_added": 4,
-      "final_total": 6
+      "post_added": 5,
+      "final_total": 7
     },
     "301563": {
       "company": "云汉芯城（上海）互联网科技股份有限公司",
       "gold_kept": 38,
       "post_duplicates": 0,
       "post_flagged": 0,
-      "post_added": 7,
-      "final_total": 45
+      "post_added": 5,
+      "final_total": 43
     },
     "301581": {
       "company": "黄山谷捷股份有限公司",
       "gold_kept": 7,
       "post_duplicates": 0,
       "post_flagged": 0,
-      "post_added": 11,
-      "final_total": 18
+      "post_added": 10,
+      "final_total": 17
     },
     "603418": {
       "company": "上海友升铝业股份有限公司",
       "gold_kept": 15,
       "post_duplicates": 0,
       "post_flagged": 0,
-      "post_added": 8,
-      "final_total": 23
+      "post_added": 9,
+      "final_total": 24
     },
     "688758": {
       "company": "苏州赛分科技股份有限公司",
@@ -55,8 +55,8 @@
       "gold_kept": 6,
       "post_duplicates": 0,
       "post_flagged": 0,
-      "post_added": 7,
-      "final_total": 13
+      "post_added": 6,
+      "final_total": 12
     },
     "920116": {
       "company": "中科星图测控技术股份有限公司",
@@ -67,5 +67,5 @@
       "final_total": 6
     }
   },
-  "total_final_records": 165
+  "total_final_records": 163
 }
