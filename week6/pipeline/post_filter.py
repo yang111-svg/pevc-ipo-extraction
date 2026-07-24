@@ -48,6 +48,18 @@ NOISE_PATTERNS = [
 
     # 6. 仅有股东名/比例无增资动作的描述
     (r"本次.*?(?:前后).*?(?:股权结构|持股).*?(?:不变|未.*?变|保持)", "股权结构描述,无变化事件"),
+
+    # 7. 目录/TOC摘要(非事件本身)
+    (r"目\s*录|TOC|第[一二三四五六七八九十\d]+节.*?第\d+页", "目录/TOC"),
+    (r"^[\(（]*[一二三四五六七八九十\d]+[\)）].*?\.{3,}.*?\d+$", "目录行"),
+
+    # 8. 事件"提及"但内容为背景介绍的
+    (r"(?:如上|如前|根据|依据).*?(?:所述|提到|披露)", "转述/引用已有事件"),
+    (r"发行人.*?(?:基本情况|历史沿革|股本演变).*?如下", "章节引导语"),
+    (r"具体情况.*?如下[：:]", "引用性引导语"),
+
+    # 9. 仅有日期+公司名无具体金额/股东的占位文本
+    (r"^(?:公司|发行人).*?(?:成立于|设立于|组建于).*?\d+年.*?(?:[,，]).*?(?:主[要营]).*?(?:[,，]).*?(?:主要).*?$", "公司简介"),
 ]
 
 # 关键词缺一不可: 必须有"数字+单位+动作"三要素
@@ -85,6 +97,24 @@ def is_noise(record):
     return False, ""
 
 
+def dedup_by_event_identity(records):
+    """同一事件在多页重复出现, 按(公司+日期+事件类型+数量)去重"""
+    seen = set()
+    unique = []
+    for rec in records:
+        code = rec.get("stock_code", "")
+        date = str(rec.get("event_date", ""))[:7]  # year-month
+        etype = rec.get("event_type", "")
+        qty = rec.get("subscription_qty_wan") or rec.get("transfer_qty_wan") or 0
+        # 数量取整(容忍小差异)
+        qty_r = round(float(qty), 0) if qty else 0
+        key = (code, date, etype, qty_r)
+        if key not in seen:
+            seen.add(key)
+            unique.append(rec)
+    return unique
+
+
 def filter_company(input_path, output_path):
     """对单个公司的精筛结果做后过滤"""
     kept = []
@@ -109,6 +139,9 @@ def filter_company(input_path, output_path):
                                 "llm_confidence": rec.get("llm_confidence", "")})
             else:
                 kept.append(rec)
+
+    # 去重: 同一事件按(公司+日期+类型+数量)去重
+    kept = dedup_by_event_identity(kept)
 
     # 保存过滤后结果
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
