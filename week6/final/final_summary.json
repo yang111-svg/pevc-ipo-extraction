@@ -1,0 +1,71 @@
+{
+  "generated": "2026-07-24",
+  "method": "Gold全量保留 + Post-filtered去重补充 + 最后质量检查",
+  "stats": {
+    "001282": {
+      "company": "芜湖三联锻造股份有限公司",
+      "gold_kept": 2,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 34,
+      "final_total": 36
+    },
+    "301563": {
+      "company": "云汉芯城（上海）互联网科技股份有限公司",
+      "gold_kept": 38,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 46,
+      "final_total": 84
+    },
+    "301581": {
+      "company": "黄山谷捷股份有限公司",
+      "gold_kept": 7,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 201,
+      "final_total": 208
+    },
+    "603418": {
+      "company": "上海友升铝业股份有限公司",
+      "gold_kept": 15,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 62,
+      "final_total": 77
+    },
+    "688758": {
+      "company": "苏州赛分科技股份有限公司",
+      "gold_kept": 8,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 80,
+      "final_total": 88
+    },
+    "688775": {
+      "company": "影石创新科技股份有限公司",
+      "gold_kept": 34,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 40,
+      "final_total": 74
+    },
+    "920100": {
+      "company": "常州三协电机股份有限公司",
+      "gold_kept": 6,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 129,
+      "final_total": 135
+    },
+    "920116": {
+      "company": "中科星图测控技术股份有限公司",
+      "gold_kept": 6,
+      "post_duplicates": 0,
+      "post_flagged": 0,
+      "post_added": 0,
+      "final_total": 6
+    }
+  },
+  "total_final_records": 708
+}
